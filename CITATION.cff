@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+title: "Network-Based Latent Heterogeneity in Dynamic Exit Models: Evidence from U.S. Portland Cement"
+authors:
+  - family-names: "Vallarino"
+    given-names: "Diego"
+repository-code: "https://github.com/YOUR-USERNAME/network-latent-heterogeneity-replication"
+abstract: "Replication package for the paper on network-based latent heterogeneity in dynamic exit models."
+keywords:
+  - industrial organization
+  - duration models
+  - graph neural networks
+  - unobserved heterogeneity
+license: "No license specified"

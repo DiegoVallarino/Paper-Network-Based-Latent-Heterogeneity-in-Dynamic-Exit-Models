@@ -1,0 +1,3 @@
+Model,Log-Lik,AIC,BIC,Emb Coef,Emb SE
+Cross-Fitted (Main),-585.0,1214.0,1339.64,1.0,0.1196
+Full-Sample (Appendix),-626.96,1297.92,1423.56,0.2188,193.248

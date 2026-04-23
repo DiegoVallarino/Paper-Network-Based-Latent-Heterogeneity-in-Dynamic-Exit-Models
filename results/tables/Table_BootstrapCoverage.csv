@@ -1,0 +1,5 @@
+Parameter,Point Estimate,Boot SE,Analytic SE,Boot CI 2.5%,Boot CI 97.5%,n_boot
+log_capacity,-2.8001,0.6261,0.1936,-4.1064,-1.5824,200
+log_capother,0.9242,0.4943,0.1234,-0.1061,1.8692,200
+Ratio,-5.3938,2.8467,1.854,-12.2015,-1.2985,200
+emb_index,1.0,0.4552,0.1196,0.1408,1.845,200

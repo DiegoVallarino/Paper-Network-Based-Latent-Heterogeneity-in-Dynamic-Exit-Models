@@ -1,0 +1,7 @@
+Variable,Obs.,Mean,Std. Dev.,Min,P25,Median,P75,Max
+Capacity (thousands of short tons),2233,796.731,386.111,195.64,529.25,700.8,987.69,2678.37
+Output (thousands of short tons),2233,699.062,335.342,177.0,465.0,611.0,866.0,2348.0
+Capacity Utilization Rate,2233,0.88,0.038,0.589,0.85,0.885,0.904,1.201
+Other-Market Capacity,2233,4645.649,3310.631,456.98,2146.2,3332.45,6831.34,12775.0
+Plant Age (years in sample),2233,9.239,5.514,1.0,4.0,9.0,14.0,19.0
+Exit Indicator,2233,0.132,0.339,0.0,0.0,0.0,0.0,1.0

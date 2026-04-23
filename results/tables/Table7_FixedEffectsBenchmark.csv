@@ -1,0 +1,4 @@
+Model,Log-Lik,AIC,BIC,Params,Parsimonious?
+Baseline,-626.96,1295.93,1415.86,21,Yes
+Embedding (CF),-585.0,1214.0,1339.64,22,Yes (1 extra)
+Market Fixed Effects,-467.07,1018.14,1258.01,42,No (21 extra)

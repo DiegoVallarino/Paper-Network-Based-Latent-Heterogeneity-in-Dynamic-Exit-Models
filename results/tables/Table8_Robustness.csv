@@ -1,0 +1,5 @@
+Specification,Coef log(Cap),SE,Coef Emb,SE_emb,Log-Lik,AIC
+"Baseline (logit, year FE, d=3)",-2.8001,0.1936,1.0,0.1196,-585.0,1214.0
+cloglog link,-2.1838,0.1403,0.8098,0.0994,-586.58,1217.16
+Linear duration,-2.6468,0.1902,1.0017,0.1197,-577.51,1167.02
+Embedding d=2,-2.6977,0.1883,0.1139,140.2037,-626.96,1297.92
