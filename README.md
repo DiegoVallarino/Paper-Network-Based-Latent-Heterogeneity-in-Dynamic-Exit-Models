@@ -8,9 +8,7 @@ April 2026
 
 ## What is included
 
-The package includes the manuscript PDF, the main Python replication pipeline, the exported figures, and the exported tables currently available in the working directory you shared.
-
-The package is organized so it can be uploaded directly to GitHub.
+The package includes the manuscript PDF (after accepted), the main Python replication pipeline, the exported figures, and the exported tables currently available in the working directory you shared.
 
 ## Important note on full reproducibility
 
