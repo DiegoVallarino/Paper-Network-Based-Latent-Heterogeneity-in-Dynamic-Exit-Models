@@ -10,20 +10,6 @@ April 2026
 
 The package includes the manuscript PDF (after accepted), the main Python replication pipeline, the exported figures, and the exported tables currently available in the working directory you shared.
 
-## Important note on full reproducibility
-
-The main script depends on the raw input file:
-
-`data/raw/data_ryan_java.csv`
-
-That file was **not included** among the materials provided here. Because of that, this package is fully suitable for:
-
-1. archiving the current paper, code, tables, and figures;
-2. sharing the replication structure on GitHub;
-3. allowing a full rerun as soon as you add the raw file in the indicated folder.
-
-In other words, this is a **GitHub-ready reproduction package with one missing raw input file**.
-
 ## Folder structure
 
 ```text
